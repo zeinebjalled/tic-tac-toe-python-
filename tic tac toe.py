@@ -26,7 +26,7 @@ player2_score.grid(row=7, column=1, columnspan=8)
 
 def reset():
         button1['text'] = " "
-        button1.configure(background="#fbe0c4")
+        button1['bg'] = "#fbe0c4" 
         button2['text'] = " "
         button2['bg'] = "#fbe0c4" 
         button3['text'] = " "
