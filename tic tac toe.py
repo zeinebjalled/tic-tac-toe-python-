@@ -152,7 +152,7 @@ button11.grid(row=4, column=3)
 label = Label( tk, text="Player 1:", font='Times 18 ', bg='#8ab6d6', fg='black', height=1, width=12)
 label.grid(row=6, column=0)
 
-label = Label( tk, text="Player 1:", font='Times 18 ', bg='#8ab6d6', fg='black', height=1, width=12)
+label = Label( tk, text="Player 2:", font='Times 18 ', bg='#8ab6d6', fg='black', height=1, width=12)
 label.grid(row=7, column=0)
 
 
